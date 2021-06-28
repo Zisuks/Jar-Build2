@@ -2,7 +2,7 @@ import json, random, time, socket, platform
 
 timestr = time.strftime("%Y-%m-%d - %H:%M:%S UTC")
 nameid = "Zisuks"
-repoid = "Jar-Build"
+repoid = "Jar-Build2"
 yamlid = "build"
 f = open("./README.md", "w")
 f.write(f'''
